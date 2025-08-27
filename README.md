@@ -55,4 +55,4 @@ git add --renormalize .
 
 ---
 
-### Made by Irsyad Nafi👼🏿
+### Made with 💖 by Irsyad Nafi👼🏿
